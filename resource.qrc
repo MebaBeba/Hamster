@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/images.jpeg</file>
+        <file>img/619b5073a5c1f33ad79722f9727c179f.jpg</file>
+        <file>img/scale_1200.png</file>
+        <file>img/scale_1200-Photoroom.png</file>
+        <file>img/basket.png</file>
+        <file>img/home.png</file>
+        <file>img/income.png</file>
+        <file>img/hamster1LVL.png</file>
+        <file>img/hamster4LVL.png</file>
+        <file>img/hamster2LVL.png</file>
+        <file>img/hamster3LVL.png</file>
+        <file>img/whiteBackgrond.jpg</file>
+        <file>img/blackBackground.jpg</file>
+        <file>img/blackRectangle.png</file>
+        <file>img/png-klev-club-tr2a-p-pryamougolnik-s-kruglimi-krayami-png-9-Photoroom.png</file>
+        <file>img/money.png</file>
+        <file>img/shopButton.png</file>
+        <file>img/1000rub.png</file>
+        <file>img/5000rub.jpg</file>
+        <file>img/10000rub.jpg</file>
+    </qresource>
+</RCC>
